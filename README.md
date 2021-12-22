@@ -4,6 +4,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishalii14" alt="vaishalii14" /></a> </p>
 
 - 🌱 I’m currently learning **DSA in C++**
+- 🌱 I’m currently on **100 Days Of Code**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
