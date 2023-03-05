@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vaishali Singh</h1>
 <h3 align="center">Upcoming SDE intern @Microsoft.</h3>
-
+<img align="right" height="350" width="350" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishalii14&label=Profile%20views&color=0e75b6&style=flat" alt="vaishalii14" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishalii14" alt="vaishalii14" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **DSA, React,WebDev**
+- 💬 Ask me about **DSA, React, WebDev**
 
 - 📫 How to reach me **singhvaishali1412@gmail.com**
 
@@ -23,4 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaishalii14&show_icons=true&locale=en" alt="vaishalii14" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaishalii14&" alt="vaishalii14" /></p>
+
 
