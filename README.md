@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaishali Singh</h1>
 <h3 align="center">Upcoming SDE intern @Microsoft.</h3>
-<img align="right" width="350" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" width="350" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw1oaIPXjAi4YjI0sFKwkJgX&ust=1690093070684000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJicsLzVoYADFQAAAAAdAAAAABA5">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishalii14&label=Profile%20views&color=0e75b6&style=flat" alt="vaishalii14" /> </p> -->
 
 
